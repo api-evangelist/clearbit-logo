@@ -23,10 +23,16 @@ apis:
       - type: Documentation
         url: https://clearbit.com/docs#logo-api
 common:
+  - type: TrustCenter
+    url: security/clearbit-logo-trust-center.yml
+  - type: DomainSecurity
+    url: security/clearbit-logo-domain-security.yml
   - type: Website
     url: https://clearbit.com/docs#logo-api
   - type: PublicAPIsListing
     url: https://github.com/public-apis/public-apis
+  - url: https://clearbit-blog.ghost.io/rss/
+    type: Blog
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
