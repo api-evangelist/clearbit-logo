@@ -1,4 +1,16 @@
 aid: clearbit-logo
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/clearbit-logo.png
 name: Clearbit Logo
 description: "Search for company logos and embed them in your projects"
 url: https://clearbit.com/docs#logo-api
