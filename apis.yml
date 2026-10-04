@@ -39,7 +39,6 @@ apis:
   - name: Clearbit Logo
     description: "Search for company logos and embed them in your projects"
     humanURL: https://clearbit.com/docs#logo-api
-    baseURL: https://clearbit.com/docs#logo-api
     tags:
       - Business
     properties:
